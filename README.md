@@ -1,2 +1,2 @@
 # Battleship
-[MINOR PROJECT] The Battleship game recreated in Python
+The Battleship game recreated in Python by ryancflam
